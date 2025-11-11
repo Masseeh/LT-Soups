@@ -1,0 +1,10 @@
+*.pyc
+*.pyo
+*.pth.tar
+
+cache/*
+cache/*
+class_means/*
+output/*
+data/*
+.vscode/*
