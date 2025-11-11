@@ -1,0 +1,2 @@
+dataset: "TinyImageNet_IR100"
+root: "data"

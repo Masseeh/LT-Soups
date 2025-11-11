@@ -1,0 +1,5 @@
+dataset: "NIH_CXR_LT"
+root: "data"
+many_threshold: 1000
+few_threshold: 100
+

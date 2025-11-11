@@ -1,0 +1,2 @@
+dataset: "CIFAR10_IR50"
+root: "data"
